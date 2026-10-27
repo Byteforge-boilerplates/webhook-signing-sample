@@ -1,0 +1,45 @@
+PREVIEW AND EVALUATION LICENSE
+
+NOTICE TO USER: PLEASE READ THIS CONTRACT CAREFULLY. BY DOWNLOADING, INSTALLING, 
+COPYING, OR USING ALL OR ANY PORTION OF THIS SOFTWARE, YOU ACCEPT ALL THE TERMS 
+AND CONDITIONS OF THIS AGREEMENT.
+
+1. DEFINITIONS
+"Software" means the stripped-down, preview, or boilerplate source code and 
+associated documentation provided in this repository.
+"Licensor" means [Your Name or Company Name].
+"Authorized Purpose" means the limited internal review, examination, and local 
+testing of the Software solely to evaluate whether to purchase a full commercial 
+license from the Licensor.
+
+2. LICENSE GRANT
+Subject to the terms of this Agreement, Licensor hereby grants you a non-exclusive, 
+non-transferable, non-sublicensable, revocable license to download, view, and 
+run the Software locally on your personal computer or internal corporate network 
+strictly for the Authorized Purpose.
+
+3. RESTRICTIONS AND PROHIBITIONS
+You expressly agree that you shall not, and shall not allow any third party to:
+a) Use the Software, or any modified version of it, in a production environment.
+b) Use the Software to generate revenue, run a business, or create a commercial product.
+c) Redistribute, sell, lease, rent, sublicense, or assign the Software to any third party.
+d) Publicly host the Software or make its source code available on any public network, 
+   fork, or repository outside of this original repository.
+
+4. FULL COMMERCIAL USE
+Any use of this Software outside of the Authorized Purpose requires a separate, 
+paid commercial license from the Licensor. Using this code to launch a product, 
+SaaS, or website without purchasing the full version constitutes copyright infringement.
+
+5. TERMINATION
+This license terminates automatically if you violate any of its terms. Upon 
+termination, you must destroy all copies of the Software in your possession.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER 
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
